@@ -1,0 +1,62 @@
+{
+    "skills":[
+        {
+            "id":1,
+            "src":"./imgs/product-chain-1.png",
+            "title":"Painless Single Sitting RCT Expert (Under Magnification)",
+            "decription":"Embark on a pain-free dental experience , a specialist in single sitting root canal treatments. Using cutting-edge magnification techniques, I ensure precise and comfortable procedures, addressing dental issues efficiently. Your oral health is in expert hands, promising a seamless and painless recovery."
+        },
+        {
+            "id":2,
+            "src":"./imgs/tag-1.png",
+            "title":"Smile Makeovers (Veneers and Crowns)",
+            "decription":"Discover the artistry of smile transformation . As a skilled practitioner in smile makeovers, I craft radiant smiles through the application of veneers and crowns. Each treatment is tailored to enhance your unique features, ensuring a confident and dazzling smile that reflects your true self."
+        },
+        {
+            "id":3,
+            "src":"./imgs/feather-pen-2.png",
+            "title":"Implants & Full Mouth Rehabilitation",
+            "decription":"Revitalize your oral health , with expertise in implants and full mouth rehabilitation. Whether you require single implants or a comprehensive mouth restoration, I am committed to delivering personalized solutions. Regain functionality and aesthetics, experiencing a renewed sense of confidence in your day-to-day activities."
+        },
+        {
+            "id":3,
+            "src":"./imgs/feather-pen-1.png",
+            "title":"Child Dentistry",
+            "decription":"Nurture your child's dental well-being , a compassionate expert in child dentistry. Creating a positive and comfortable environment, I specialize in gentle treatments tailored to young patients. From preventive care to addressing specific dental needs, your child's smile is in caring and experienced hands, ensuring a foundation for lifelong oral health."
+        }
+    ],
+
+
+
+    "portfolio":[
+        {
+            "id":1,
+            "src":"./imgs/placeholder-image.png",
+            "title":"Emitence Realty",
+            "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit",
+            "link":"View in Github",
+            "li":"https://github.com/therishabhsharma03/emitence-2.0-master",
+            "im":"https://www.emitencerealty.com/"
+           
+        },
+        {
+            "id":2,
+            "src":"./imgs/placeholder-image-1.png",
+            "title":"React Projects",
+            "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit",
+            "link":"View in Github",
+            "li":"https://github.com/therishabhsharma03/SecurityCAMERA",
+            "im":"https://therishabhsharma03.github.io/React_Tasks/"
+        },
+        {
+            "id":3,
+            "src":"./imgs/placeholder-image-2.png",
+            "title":"Calculator",
+            "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit",
+            "link":"View in Github",
+            "li":"https://github.com/therishabhsharma03/task2",
+            "im":"https://task2-seven-rose.vercel.app/"
+        }
+
+    ]
+}

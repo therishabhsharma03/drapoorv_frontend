@@ -17,7 +17,7 @@ const ContactMe = () => {
     e.preventDefault();
 
     try {
-      const response = await fetch('http://localhost:4000/sendmail', {
+      const response = await fetch('https://drapoorv.onrender.com/sendmail', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

@@ -622,8 +622,10 @@ input[type="checkbox"] {
   }
   .hero--section {
     display: flex;
-    flex-direction: column-reverse;
     padding-bottom: 70px;
+    align-content: space-between;
+    flex-direction: column;
+    justify-content: space-evenly;
   }
   .hero--section--title,
   .hero--section-description,

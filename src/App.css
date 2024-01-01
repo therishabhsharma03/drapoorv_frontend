@@ -623,7 +623,7 @@ input[type="checkbox"] {
   .hero--section {
     display: flex;
     padding-bottom: 70px;
-    align-content: space-between;
+   
     flex-direction: column;
     justify-content: space-evenly;
   }

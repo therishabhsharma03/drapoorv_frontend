@@ -171,7 +171,9 @@ h3{
   line-height: 24px;
 }
 /* Styling of navbar  starts*/
-
+.logo{
+  width: 350px;
+}
 .navbar{
   display: flex;
   justify-content: space-between;
@@ -574,6 +576,9 @@ input[type="checkbox"] {
 }
 
 @media only screen and (max-width: 1800px) {
+  .logo{
+    width: 150px;
+  }
   .hero--section--title {
     font-size: 68px;
     line-height: 70px;
@@ -585,6 +590,9 @@ input[type="checkbox"] {
 }
 
 @media only screen and (max-width: 1600px) {
+  .logo{
+    width: 160px;
+  }
   .skills--section--heading {
     font-size: 54px;
     line-height: 70px;

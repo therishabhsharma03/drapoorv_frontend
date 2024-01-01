@@ -35,7 +35,7 @@ function Navbar(){
         <nav className={`navbar ${navActive? "active":""}`}>
             <div>
                 
-                <img src="./imgs/logo.png" alt="" width={"75px"}></img>
+                <img src="./imgs/logo.png"className="logo" alt="" width={"350px"}></img>
             </div>
             <a className={`nav__hamburger ${navActive? "active":""}`} onClick={toggleNav}>
                 <span className="nav__humburger__line"></span>

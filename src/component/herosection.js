@@ -4,12 +4,13 @@ export default function HeroSection(){
         <section id ="heroSection" className="hero--section bg">
             <div className="hero--section--content--box">
                 <div className="hero--section--content hero--bg--intro">
-                    <p className="section--title ">Hey, Dr.Apoorv Sharma</p>
+                    {/* <p className="section--title ">Hey, Dr.Apoorv Sharma</p> */}
                     <h1 className="hero--section--title">
                         <span className="hero--section-title-color">Endodontist</span>{" "}
                         <br />
                         & Esthetic Dentist
                     </h1>
+                    <p className="section--title ">CHANDIAGRH | ROORKEE</p>
                     <p className="hero--section--description">
                         
                         <br />

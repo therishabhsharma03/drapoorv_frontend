@@ -1,4 +1,5 @@
 import {Link} from "react-scroll";
+import { IoCall } from "react-icons/io5";
 export default function HeroSection(){
     return(
         <section id ="heroSection" className="hero--section bg">
@@ -6,17 +7,17 @@ export default function HeroSection(){
                 <div className="hero--section--content hero--bg--intro">
                     {/* <p className="section--title ">Hey, Dr.Apoorv Sharma</p> */}
                     <h1 className="hero--section--title">
-                        <span className="hero--section-title-color">Endodontist</span>{" "}
+                        <span className="hero--section-title-color">Call us and book your appointment now </span>{" "}
                         <br />
-                        & Esthetic Dentist
+                        <IoCall />
+ 098979 78150 
+                        
                     </h1>
-                    <p className="section--title ">CHANDIAGRH | ROORKEE</p>
+                    <p className="section--title "></p>
                     <p className="hero--section--description">
                         
                         <br />
                     </p>
-                </div>
-               
                 <Link       
                         spy={true}
                         smooth={true}
@@ -24,6 +25,34 @@ export default function HeroSection(){
                         duration={500}
                         to="Contact" // *******************************************Change this according to the function made later
                         className="btn-primary btn">Get In Touch</Link>
+                </div>
+               
+              
+            </div>
+            <div className="hero--section--content--box1">
+                <div className="hero--section--content hero--bg--intro">
+                    {/* <p className="section--title ">Hey, Dr.Apoorv Sharma</p> */}
+                    
+                        <span className="hero--section-title-color">Call us and book your appointment now </span>{" "}
+                        <br />
+                        <IoCall />
+ 098979 78150 
+                        
+                
+                    <p className="section--title "></p>
+                    <p className="hero--section--description">
+                        
+                        <br />
+                    </p>
+                <Link       
+                        spy={true}
+                        smooth={true}
+                        offset={-70}
+                        duration={500}
+                        to="Contact" // *******************************************Change this according to the function made later
+                        className="btn-primary btn">Get In Touch</Link>
+                </div>
+               
               
             </div>
             <div className="hero--section--img">

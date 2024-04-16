@@ -8,14 +8,14 @@ body{
 }
 
 .bg{
-  background-image: url("../public/imgs/bg-section.png");
+/*   background-image: url("../public/imgs/bg-section.png"); */
   background-repeat: no-repeat;
   background-size: cover;
   height: 90vh;
 }
 @media only screen and (max-width: 1200px) {
   .bg{
-    background-image: url("../public/imgs/bg-mobile-a.png");
+/*     background-image: url("../public/imgs/bg-mobile-a.png"); */
   background-repeat: no-repeat;
   background-size: cover;
   height: 90vh;
